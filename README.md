@@ -23,6 +23,6 @@ To stop the program, you can either press the Enter key or use the Ctrl+C signal
 
 # License & Credits
 This program was created by Amir Mahamid as a learning project.
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 
