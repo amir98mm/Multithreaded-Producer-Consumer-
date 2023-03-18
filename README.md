@@ -18,7 +18,8 @@ To stop the program, you can either press the Enter key or use the Ctrl+C signal
 
 ### Second :
 #### queue of size 1, so can't add until we consume the data
-![image](https://user-images.githubusercontent.com/75622732/226123612-cbd6828d-ed57-4231-a74b-40d21b4e9d58.png)
+![image](https://user-images.githubusercontent.com/75622732/226123963-28ea399f-a76c-49bd-8ba0-d5e26f0a3881.png)
+
 
 # License & Credits
 This program was created by Amir Mahamid as a learning project.
