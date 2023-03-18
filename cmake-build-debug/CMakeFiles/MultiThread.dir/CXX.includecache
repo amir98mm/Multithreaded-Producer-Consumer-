@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/Desktop/MultiThread/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+queue
+-
+csignal
+-
+
