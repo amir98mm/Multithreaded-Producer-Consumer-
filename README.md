@@ -8,6 +8,8 @@ This program was created as a learning project. The code demonstrates the use of
 ## How to Run
 To run the program, simply compile the source code using a C++ compiler (such as g++ or clang++) and execute the resulting binary. Upon running the program, the user will be prompted to enter the number of producers, number of consumers, and queue size.
 
+Alternatively, you can run the program by executing the 'MultiThread.exe' file located in the folder.
+
 To stop the program, you can either press the Enter key or use the Ctrl+C signal handler. The program will stop once all the threads have finished their execution.
 
 ## Examples
